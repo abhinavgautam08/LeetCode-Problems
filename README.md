@@ -52,3 +52,15 @@ If you find this repository helpful:
 * Feel free to suggest improvements or alternative solutions
 
 Thank you for visiting this repository.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+## Math
+|  |
+| ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+<!---LeetCode Topics End-->
