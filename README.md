@@ -58,9 +58,22 @@ Thank you for visiting this repository.
 ## Array
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhinavgautam08/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
